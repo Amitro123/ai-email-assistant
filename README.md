@@ -58,7 +58,7 @@ An intelligent email automation tool that integrates Gmail API with OpenAI to he
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-email-assistant.git
+   git clone https://github.com/Amitro123/ai-email-assistant.git
    cd ai-email-assistant
    ```
 
@@ -234,9 +234,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+Amit Rosen
 
-Project Link: [https://github.com/YOUR_USERNAME/ai-email-assistant](https://github.com/YOUR_USERNAME/ai-email-assistant)
+- LinkedIn: [https://www.linkedin.com/in/amit-rosen-331732140/](https://www.linkedin.com/in/amit-rosen-331732140/)
+- Email: amitrosen4@gmail.com
+
+Project Link: [https://github.com/Amitro123/ai-email-assistant](https://github.com/Amitro123/ai-email-assistant)
 
 ## 🗺️ Roadmap
 
